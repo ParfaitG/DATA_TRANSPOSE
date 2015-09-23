@@ -1,5 +1,3 @@
-library(reshape)
-
 # READ IN CSV FILES
 setwd("C:\\Path\\To\\Data\\Files")
 

@@ -1,5 +1,5 @@
 # DATA_TRANSPOSE
-Scripts to transpose data from long to wide formats in PHP, Python, R, SAS, SQL, XSLT, and VBA (MS Access and MS Excel).
+Scripts to transpose data from long to wide formats in Java, PHP, Python, R, SAS, SQL, XSLT, and VBA (MS Access and MS Excel).
 
 Using _Google Doodles from 2010-2015_ data, scripts read in attached yearly CSV files, aggregates data by distinct Year, Date, and Month, then transposes data into month columns.
 
